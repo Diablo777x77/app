@@ -1,0 +1,10 @@
+{
+  "id": "example-app",
+  "version": "1.0.0",
+  "name": "Example App",
+  "about": "This is an example app for Saleor.",
+  "permissions": ["MANAGE_PRODUCTS", "MANAGE_ORDERS"],
+  "appUrl": "http://localhost:3000",
+  "configUrl": "http://localhost:3000/config",
+  "tokenTargetUrl": "http://localhost:3000/token"
+}
