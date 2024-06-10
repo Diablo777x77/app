@@ -1,10 +1,12 @@
 {
   "id": "example-app",
-  "version": "1.0.0",
   "name": "Example App",
-  "about": "This is an example app for Saleor.",
+  "version": "1.0.0",
+  "about": "This is an example app.",
   "permissions": ["MANAGE_PRODUCTS", "MANAGE_ORDERS"],
-  "appUrl": "http://localhost:3000",
-  "configUrl": "http://localhost:3000/config",
-  "tokenTargetUrl": "http://localhost:3000/token"
+  "appUrl": "https://Diablo777x77.github.io/saleor-app-manifest/",
+  "configurationUrl": "https://Diablo777x77.github.io/saleor-app-manifest/configuration",
+  "tokenTargetUrl": "https://Diablo777x77.github.io/saleor-app-manifest/auth/token",
+  "dataPrivacyUrl": "https://Diablo777x77.github.io/saleor-app-manifest/data-privacy",
+  "webhooks": []
 }
