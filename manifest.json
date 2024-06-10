@@ -7,7 +7,7 @@
     "MANAGE_ORDERS",
     "MANAGE_PRODUCTS"
   ],
-  "appUrl": "https://example.com/app",
-  "configurationUrl": "https://example.com/configuration",
-  "tokenTargetUrl": "https://example.com/token"
+  "appUrl": "http://localhost:3000/app",
+  "configurationUrl": "http://localhost:3000/configuration",
+  "tokenTargetUrl": "http://localhost:3000/token"
 }
