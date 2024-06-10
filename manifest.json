@@ -4,9 +4,9 @@
   "version": "1.0.0",
   "about": "This is an example app.",
   "permissions": ["MANAGE_PRODUCTS", "MANAGE_ORDERS"],
-  "appUrl": "http://localhost:3001/",
-  "configurationUrl": "http://localhost:3001/configuration",
-  "tokenTargetUrl": "http://localhost:3001/auth/token",
-  "dataPrivacyUrl": "http://localhost:3001/data-privacy",
+  "appUrl": "https://localhost:3001/",
+  "configurationUrl": "https://localhost:3001/configuration",
+  "tokenTargetUrl": "https://localhost:3001/auth/token",
+  "dataPrivacyUrl": "https://localhost:3001/data-privacy",
   "webhooks": []
 }
