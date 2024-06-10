@@ -4,9 +4,9 @@
   "version": "1.0.0",
   "about": "This is an example app.",
   "permissions": ["MANAGE_PRODUCTS", "MANAGE_ORDERS"],
-  "appUrl": "https://Diablo777x77.github.io/saleor-app-manifest/",
-  "configurationUrl": "https://Diablo777x77.github.io/saleor-app-manifest/configuration",
-  "tokenTargetUrl": "https://Diablo777x77.github.io/saleor-app-manifest/auth/token",
-  "dataPrivacyUrl": "https://Diablo777x77.github.io/saleor-app-manifest/data-privacy",
+  "appUrl": "http://localhost:3001/",
+  "configurationUrl": "http://localhost:3001/configuration",
+  "tokenTargetUrl": "http://localhost:3001/auth/token",
+  "dataPrivacyUrl": "http://localhost:3001/data-privacy",
   "webhooks": []
 }
