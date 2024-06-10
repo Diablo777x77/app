@@ -3,8 +3,13 @@
   "version": "1.0.0",
   "name": "Example App",
   "about": "This is an example app for Saleor.",
-  "permissions": ["MANAGE_PRODUCTS", "MANAGE_ORDERS"],
+  "permissions": [
+    "MANAGE_PRODUCTS",
+    "MANAGE_ORDERS"
+  ],
   "appUrl": "http://localhost:3000",
   "configUrl": "http://localhost:3000/config",
-  "tokenTargetUrl": "http://localhost:3000/token"
+  "tokenTargetUrl": "http://localhost:3000/token",
+  "dataPrivacyUrl": "http://localhost:3000/data-privacy",
+  "supportUrl": "http://localhost:3000/support"
 }
