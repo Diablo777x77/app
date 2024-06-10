@@ -1,15 +1,13 @@
 {
   "id": "example-app",
-  "version": "1.0.0",
   "name": "Example App",
+  "version": "1.0.0",
   "about": "This is an example app for Saleor.",
   "permissions": [
-    "MANAGE_PRODUCTS",
-    "MANAGE_ORDERS"
+    "MANAGE_ORDERS",
+    "MANAGE_PRODUCTS"
   ],
-  "appUrl": "http://localhost:3000",
-  "configUrl": "http://localhost:3000/config",
-  "tokenTargetUrl": "http://localhost:3000/token",
-  "dataPrivacyUrl": "http://localhost:3000/data-privacy",
-  "supportUrl": "http://localhost:3000/support"
+  "appUrl": "https://example.com/app",
+  "configurationUrl": "https://example.com/configuration",
+  "tokenTargetUrl": "https://example.com/token"
 }
